@@ -1,3 +1,17 @@
+> ## ⚠️ Archived — merged into Dograh
+>
+> This project has been merged into [**stefandsl/dograh**](https://github.com/stefandsl/dograh) as the
+> Telegram IM channel. The Telegram bot now lives at
+> [`telegram-bot/`](https://github.com/stefandsl/dograh/tree/main/telegram-bot)
+> there, with a UI for managing bot tokens at `/channels/im` and a 9-button
+> Syntx-style menu wired into Dograh's workflow engine.
+>
+> See [`docs/channels/telegram.md`](https://github.com/stefandsl/dograh/blob/main/docs/channels/telegram.md)
+> for setup, and [`docs/adr/ADR-100..103`](https://github.com/stefandsl/dograh/tree/main/docs/adr)
+> for the design notes from the merge.
+>
+> This repository is read-only; open issues and PRs against Dograh instead.
+
 # CliClaw
 
 Universal AI assistant in Telegram. Choose your backend: **Claude Code**, **Gemini CLI** (free), or **Codex CLI**.
